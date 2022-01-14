@@ -1,0 +1,1 @@
+export BottomTabsNavigator from "./BottomTabsNavigator";
